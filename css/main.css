@@ -1,0 +1,47 @@
+#main{
+	margin: 0px auto;
+	margin-top: 80px;
+	width: 520px;
+	height: 520px;
+	background: burlywood;
+	text-align: center;
+}
+#main div{
+	float: left;
+	/*border: solid 1px red;*/
+}
+#main_title{
+	font-size: 20px;
+	font-weight: bold;
+	color: brown;
+	height: 50px;
+	width: 520px;
+	padding-top: 20px;
+}
+#outer{
+	background-color: saddlebrown;
+	width: 470px;
+	height: 420px;
+	margin-left: 25px;
+}
+#inner{
+	width: 440px;
+	height: 390px;
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 15px;	
+}
+#inner div{
+	text-align: center;
+	width: 114px;
+	border: solid 2px darkgrey;
+	margin-left: 22px;
+	margin-top: 25px;
+	padding: 8px 0px;
+}
+#inner div img{
+	width: 110px;
+}
+#inner div a{
+	font-size: 12px;
+}
